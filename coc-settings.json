@@ -8,12 +8,9 @@
   ],
   "tsserver.formatOnType": true,
   "coc.preferences.formatOnType": true,
-  "eslint.filetypes": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact"
-  ],
   "prettier.singleQuote": true,
-  "prettier.jsxSingleQuote": true
+  "prettier.jsxSingleQuote": true,
+  "coc.preferences.extensionUpdateCheck": "daily",
+  "typescript.preferences.importModuleSpecifier": "relative"
+
 }
